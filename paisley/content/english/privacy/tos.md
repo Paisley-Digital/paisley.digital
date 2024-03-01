@@ -38,7 +38,7 @@ Divar AI ("Extension") places a strong emphasis on user privacy. We are dedicate
 
 **How We Use Your Data**
 
-* **Storage and Access:** We store the collected real estate data and your phone number securely to allow you to retrieve and manage your saved listings within the Extension.
+* **Storage and Access:** We store the collected real estate data and your phone number securely to allow you to retrieve and manage your saved listings within the Extension. Also your session data will be stored in browser to keep the session alive while you're within authentication time window.
 * **Internal Analysis (Optional):** We may analyze collected real estate data in an anonymized and aggregated form to improve the Extension's features and functionality.
 
 **Sharing Your Data**
